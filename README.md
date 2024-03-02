@@ -7,3 +7,5 @@ docker-compose up -d
 docker exec -it procname_problem_showcase-app-1 /bin/bash
 htop
 ```
+
+![image](https://github.com/Exordio/proc_name-gunicorn-problem-showcase/assets/45700369/c7e97890-edcb-4263-a562-9831883437df)
